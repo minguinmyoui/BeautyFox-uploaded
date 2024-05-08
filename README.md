@@ -1,7 +1,5 @@
-# What is BeautyFox?
-BeautyFox is a theme for Firefox 115 ESR that aims to replicate the Internet Explorer 9, 10, and 11 look and feel.
-![image](https://github.com/angelbruni/BeautyFox/assets/48385307/c2ffe8f5-0ef7-4555-abfc-92026c58c9f5)
-![firefox_JNygRJcaI9](https://github.com/angelbruni/BeautyFox/assets/48385307/10239166-d63a-4011-af3e-12ead61e373c)
+# What is BeautyFox UPLOADED?
+es lo mismo... pero no es lo mismo
 
 [Discord Server](https://discord.gg/ZDeT6vdqMp)
 
@@ -25,7 +23,7 @@ BeautyFox is a theme for Firefox 115 ESR that aims to replicate the Internet Exp
 
 	**Warning!** Using a modded `XUL.dll` will cause some streaming services (like Netflix) to stop working. Continue at your own risk.
 
-	2.1. Download the modded [XUL.dll](https://github.com/ImSwordQueen/firefox-native-controls/releases) (archived);
+	2.1. Download the modded [XUL.dll](https://github.com/ephemeralViolette/firefox-native-controls/releases);
 
 	2.2. Find `firefox.exe` directory and replace the existing `XUL.dll` with the modded one.
 
@@ -46,12 +44,10 @@ Enjoy!
 * [Aris-t2](https://github.com/Aris-t2) - favicon_in_urlbar.uc.js;
 * SQUEeAK - Trailer;
 * [ephemeralViolette](https://github.com/ephemeralViolette) - Firefox Native Controls;
-* [luisl173](https://github.com/luisl173) - Testing, Spanish translation;
+* [luisl173](https://github.com/luisl173) - Testing, spanish translation;
 * [MaTe](https://github.com/MisforMaTe) - Testing, Portuguese (Brazillian) translation;
 * [catneptune](https://github.com/catneptune) - Testing, Portuguese (Brazillian) translation;
-* [Brawllux](https://github.com/EndlessLuck) - Testing and Turkish translation;
-* [Longhorn004](https://github.com/Longhorn004) - Testing and Korean translation;
-* [chronail](https://github.com/chronail) - Testing and Indonesian translation;
+* [Brawllux](https://github.com/EndlessLuck) - Testing and turkish translation;
 * [ImSwordQueen](https://github.com/ImSwordQueen) - Testing, ideas;
 * slice - Comissioner, testing;
 * Testing Team - For making sure all bugs are squished and improvements are made;
